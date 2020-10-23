@@ -5,4 +5,6 @@ Notebook tested on Google COLAB. Models and data files should be first loaded in
 
 Contains Python implementation of the generalized RDT (NRDT) spectral image generator. 
 
-
+<a href="https://colab.research.google.com/github.com/radu-dogaru/NL-CNN-RDT-based-sound-classification-/blob/main/evaluate_rdt_nl_cnn_models.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
