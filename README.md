@@ -1,5 +1,5 @@
 # NL-CNN-RDT-based-sound-classification-
-Models and their evaluation for paper: Radu Dogaru and Ioana Dogaru  "RD-CNN: A Compact and Efficient Convolutional Neural Net for Sound Classification ", ISETC-2020
+Models and their evaluation for paper: Radu Dogaru and Ioana Dogaru  "RD-CNN: A Compact and Efficient Convolutional Neural Net for Sound Classification ", ISETC-2020  (draft here: https://github.com/radu-dogaru/NL-CNN-RDT-based-sound-classification-/blob/main/Dogaru_ISETC-2020-draft-preprint.pdf)
 
 Notebook tested on Google COLAB. Models and data files should be first loaded in the "Files" tab. 
 
